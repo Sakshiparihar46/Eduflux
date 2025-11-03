@@ -84,9 +84,19 @@ EduFlux/
 ## 🖼️ Screenshots  
 <img width="1366" height="768" alt="Screenshot (2163)" src="https://github.com/user-attachments/assets/e377a6eb-3e41-4a18-b0d4-b232a2f58bd5" />
 
+
+
 <img width="1366" height="768" alt="Screenshot (2164)" src="https://github.com/user-attachments/assets/03f1f024-87a0-41ca-a311-5f117d08013f" />
 
+
+
+<img width="1366" height="768" alt="Screenshot (2165)" src="https://github.com/user-attachments/assets/2036ccbf-4fa7-47f5-ad21-eb91a4d2c14c" />
+
+
+
 <img width="1366" height="768" alt="Screenshot (2166)" src="https://github.com/user-attachments/assets/f3b60430-75ab-4d00-8968-86e11ae23693" />
+
+
 
 <img width="1366" height="768" alt="Screenshot (2167)" src="https://github.com/user-attachments/assets/7fa4b53b-c10f-4da2-98c7-4acfcb17a73e" />
 
