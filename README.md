@@ -82,14 +82,10 @@ EduFlux/
 
 
 ## 🖼️ Screenshots  
-*(Add your project screenshots here to make the README more engaging.)*  
+ <img width="1366" height="768" alt="Screenshot (2162)" src="https://github.com/user-attachments/assets/5bcd03cf-1189-4fe7-a197-4150968e3ca3" />
 
-Example layout:  
-| Page | Preview |
-|------|----------|
-| **Dashboard** | ![Dashboard Screenshot](./screenshots/dashboard.png) |
-| **Courses Page** | ![Courses Screenshot](./screenshots/courses.png) |
-| **Login Page** | ![Login Screenshot](./screenshots/login.png) |
+
+
 
 
 
