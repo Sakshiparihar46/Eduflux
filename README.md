@@ -82,7 +82,8 @@ EduFlux/
 
 
 ## 🖼️ Screenshots  
- <img width="1366" height="768" alt="Screenshot (2162)" src="https://github.com/user-attachments/assets/5bcd03cf-1189-4fe7-a197-4150968e3ca3" />
+<img width="1366" height="768" alt="Screenshot (2163)" src="https://github.com/user-attachments/assets/e377a6eb-3e41-4a18-b0d4-b232a2f58bd5" />
+
 
 
 
